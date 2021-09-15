@@ -1,6 +1,8 @@
 # Digital-Clock
 
-### A simple 12-hour clock built using Vanilla JS, HTML, and CSS
+Resources: Vanilla JavaScript, HTML, CSS
+
+A simple 12 hour clock that displays the current time.
 
 ## App Walkthrough
 
