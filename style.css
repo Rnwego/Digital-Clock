@@ -1,0 +1,16 @@
+body {
+  background: #282828;
+}
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #2affff;
+  font-family: Helvetica;
+  border: 1px solid #2affff;
+  box-shadow: 2px 2px 2px #2affff;
+  font-size: 5rem;
+  font-weight: 100;
+  padding: 10px;
+}
