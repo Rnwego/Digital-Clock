@@ -1,2 +1,8 @@
 # Digital-Clock
-A simple 12-hour clock built using Vanilla JS, HTML, and CSS
+
+### A simple 12-hour clock built using Vanilla JS, HTML, and CSS
+
+## App Walkthrough
+
+![Digital Clock](DigitalClock.gif)
+
